@@ -1,4 +1,4 @@
-# Endpoint: ConsolidadoCobrancaEmpresa
+# Consolidado de Cobranças
 
 Este endpoint fornece informações consolidadas sobre a cobrança por empresa em um intervalo de datas.
 
