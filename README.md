@@ -8,15 +8,6 @@ Este endpoint fornece informações consolidadas sobre a cobrança por empresa e
 
 **Descrição:** Efetua login na API para obter o token necessário para autenticação.
 
-### Exemplo de Requisição
-
-```json
-{
-  "Username": "NomeDeUsuario",
-  "Password": "Senha"
-}
-```
-
 ### Parâmetros
 
 - **Sem parâmetros de URL**
